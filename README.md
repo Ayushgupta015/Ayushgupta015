@@ -1,8 +1,8 @@
 # AyushGupta
 👋 I'm Ayush Gupta
 
-[![image](https://github.com/Ayushgupta015/AyushGupta/assets/132714587/733c1230-8b3d-4290-8b05-64e61c892ba3)
-]()
+[![image](https://github.com/Ayushgupta015/Ayushgupta015/assets/132714587/c98bb556-0403-4b46-a30e-8cf4cfe92b05)
+](url)
 
 As an ambitious and dedicated B.Tech. Computer Science student, I have a strong interest in developing software, applications, and websites that function flawlessly and create stunning digital experiences.
 
@@ -16,8 +16,8 @@ As an ambitious and dedicated B.Tech. Computer Science student, I have a strong 
 
 ✉️ You can contact me at mail.ayushguptagola3@gmail.com
 
-[![image](https://github.com/Ayushgupta015/AyushGupta/assets/132714587/3babe8aa-7319-401a-9940-ffa3f132eecf)
-]()
+[![image](https://github.com/Ayushgupta015/Ayushgupta015/assets/132714587/76f7b6d4-617d-4ed0-9bbd-9f18a17f2c52)
+](url)
 
 
 Socials
