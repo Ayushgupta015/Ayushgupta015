@@ -1,4 +1,4 @@
-# AyushGupta
+## AyushGupta
 👋 I'm Ayush Gupta
 
 [![image](https://github.com/Ayushgupta015/Ayushgupta015/assets/132714587/c98bb556-0403-4b46-a30e-8cf4cfe92b05)
