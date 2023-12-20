@@ -14,7 +14,6 @@ As an ambitious and dedicated B.Tech. Computer Science student, I have a strong 
 
 🤝 I'm open to collaborating on interesting web-related projects
 
-✉️ You can contact me at mail.ayushguptagola3@gmail.com
 
 [![image](https://github.com/Ayushgupta015/Ayushgupta015/assets/132714587/76f7b6d4-617d-4ed0-9bbd-9f18a17f2c52)
 ](url)
