@@ -22,12 +22,12 @@ As an ambitious and dedicated B.Tech. Computer Science student, I have a strong 
 
 Socials
 
-[![image](https://github.com/Ayushgupta015/AyushGupta/assets/132714587/f11cd9a0-e0f8-48e8-9788-112958c55213)
+[![image](https://github.com/Ayushgupta015/Ayushgupta015/assets/132714587/91615669-0dfd-421d-9cb6-08fef3b8b9e5)
 ](www.linkedin.com/in/ayush-gupta-970801225)
 
 Languages & Tools
 
-[![image](https://github.com/Ayushgupta015/AyushGupta/assets/132714587/bfee5de0-faaa-4c12-a0ab-cc392c450f5a)
+[![image](https://github.com/Ayushgupta015/Ayushgupta015/assets/132714587/7e24acb8-28d9-4882-bed0-0cb41fa44a2d)
 ](url)
 
  
