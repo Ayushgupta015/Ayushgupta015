@@ -6,6 +6,12 @@
 As an ambitious and dedicated B.Tech. Computer Science student, I have a strong interest in developing software, applications, and websites that function flawlessly and create stunning digital experiences.
 
 🌍 I'm based in India
+- 📫 How to reach me **ayushguptagola3@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 
 
 
