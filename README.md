@@ -10,6 +10,7 @@ As an ambitious and dedicated B.Tech. Computer Science student, I have a strong 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/http://linkedin.com/in/ayushguptav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/ayushguptav" height="30" width="40" /></a>
 </p>
 
 
